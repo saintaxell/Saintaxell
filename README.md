@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**saintaxell/Saintaxell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Axel 👋
 
-Here are some ideas to get you started:
+### Junior Web Developer | UI/UX Designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer and designer from Costa Rica, passionate about building clean, responsive, and user-friendly digital experiences.
+
+- 🎨 UI/UX Design with Figma
+- 💻 Frontend development with HTML, CSS, and JavaScript
+- 📚 Currently improving my web development skills
+- 🚀 Interested in freelance projects and new opportunities
+
+### 🛠️ Technologies & Tools
+
+- HTML5
+- CSS3
+- JavaScript
+- Figma
+- Git & GitHub
+
+### 📂 Featured Projects
+
+- **Pedri Café** — UI/UX design project
+- **Netflix Redesign** — UI/UX redesign concept
+
+### 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/axel-bolanos/
